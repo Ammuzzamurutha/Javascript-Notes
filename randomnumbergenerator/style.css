@@ -1,0 +1,17 @@
+body{
+    font-family:verdana;
+    text-align:center;
+
+}
+#rollbtn{
+    padding:10px;
+    font-size:3em;
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+#counterlabel{
+    font-size:5em;
+}
