@@ -1,0 +1,26 @@
+//if-else statements 
+let age =18;
+if(age>=18){
+    console.log("you are an adult");
+}
+else{
+    console.log("you are a minor");
+}
+isRaining=true;
+if(isRaining){
+    console.log("take an umbrella");
+}
+else{
+    console.log("enjoy the sunshine");
+}
+
+let hr=9;
+if(hr<12){
+    console.log("good morning");
+}   
+else if(hr<18){
+    console.log("good afternoon");
+}
+else{
+    console.log("good evening");
+}
